@@ -45,6 +45,9 @@ h3 {
   margin-bottom: 20px;
   color: rgb(18, 137, 248);
 }
+.info-anchor:hover{
+  text-decoration: underline;
+}
 .info--btns {
   display: flex;
   flex-direction: row;
