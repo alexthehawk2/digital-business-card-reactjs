@@ -7,7 +7,14 @@ export default function Info() {
       <img className="info-img" src={infoImg} alt="profile-img-abir-dey" />
       <h1>Abir Dey</h1>
       <h3>MERN Stack Developer</h3>
-      <h5>abir-dey-contact.herokuapp.com</h5>
+      <a
+        className="info-anchor"
+        target="_blank"
+        href="https://abir-dey-contact.herokuapp.com"
+        rel="noopener noreferrer"
+      >
+        abir-dey-contact.herokuapp.com
+      </a>
       <div className="info--btns">
         <a href="mailto:abirdeyworkmail@gmail.com">
           <img src={emailImg} className="info-btn-img" alt="email icon" />

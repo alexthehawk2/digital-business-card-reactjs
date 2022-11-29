@@ -36,11 +36,14 @@ h3 {
   margin-bottom: 9px;
 }
 
-h5 {
-  margin-top: 0px;
+.info-anchor {
+  display: inline-block;
   font-weight: 400;
   font-size: 10.24px;
   color: #f5f5f5;
+  text-decoration: none;
+  margin-bottom: 20px;
+  color: rgb(18, 137, 248);
 }
 .info--btns {
   display: flex;
