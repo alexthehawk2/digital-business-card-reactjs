@@ -10,10 +10,10 @@ export default function Info() {
       <a
         className="info-anchor"
         target="_blank"
-        href="https://abir-dey-contact.herokuapp.com"
+        href="https://abir-dey.onrender.com"
         rel="noopener noreferrer"
       >
-        abir-dey-contact.herokuapp.com
+        abir-dey.onrender.com
       </a>
       <div className="info--btns">
         <a href="mailto:abirdeyworkmail@gmail.com">

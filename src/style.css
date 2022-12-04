@@ -44,6 +44,7 @@ h3 {
   text-decoration: none;
   margin-bottom: 20px;
   color: rgb(18, 137, 248);
+  letter-spacing: 3px;
 }
 .info-anchor:hover{
   text-decoration: underline;
